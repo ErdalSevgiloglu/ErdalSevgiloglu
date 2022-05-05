@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ErdalSevgiloglu
-- 👀 I’m interested in Java and Python
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
+- 👀 I’m interested in Swift ,Java and Python
+- 🌱 I’m currently learning Swift and Java
+- 💞️ I’m looking to collaborate on Swift
 - 📫 How to reach me ...
 
 <!---
